@@ -1,3 +1,6 @@
+## This application is for learning frontend.
+## You can learning from by Youtube Channel: JavaScript Mastery
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
